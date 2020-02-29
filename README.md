@@ -1,1 +1,1 @@
-# anton-droid.github.io
+# astro-apps.github.io/notes
