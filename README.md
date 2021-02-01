@@ -1,5 +1,5 @@
-# Privacy Policy for the "Notes" application
+# "Notes & Reminders" application
 
-[Notes app](https://play.google.com/store/apps/details?id=ru.astroapps.notes)
+[Google Play](https://play.google.com/store/apps/details?id=ru.astroapps.notes)
 
-[Privacy Policy](https://astro-apps.github.io/notes/privacy)
+[Privacy Policy](https://astro-apps.github.io/privacy)
